@@ -1,0 +1,250 @@
+*{
+	margin:0;
+	padding:0;
+}
+.bg_color{
+	background:#4a1831;
+	color:#e7be9c;
+}
+.image{
+  padding:150px;
+  background-image: url('cooking background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width: 850px){
+	.image{
+    float:right;
+}
+
+.submitBtn{
+	padding:5px 40px;
+	color:#4a1831;
+	font-family:Myriad Pro;
+	background:#ffd7ad;
+	margin-top:10px;
+	margin-left:50px;
+	border-radius:20px;
+}
+}
+.ourMenu_color{
+	background:#ffd7ad;
+}
+.center{
+	text-align:center;
+	padding:80px;
+}
+.sendMenu{
+	background:#4a1831;
+	color:#ffd7ad;
+	margin-top:10px;
+	padding:5px 40px;
+	border-radius:20px;
+}
+.background_image{
+  padding:150px;
+  background-image: url('clip.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.About_Mariachi{
+	padding:80px 0 0 0;
+	background:#ffd7ad;
+}
+.About_color{
+	color:#4a1831;
+	font-weight:bold;
+	font-size:50px;
+}
+.hand_color{
+	background:#ffd7ad;
+	margin:0 auto;
+}
+.hand_image{
+	width:60%;
+	margin-left:280px;
+    position:relative;
+}
+@media screen and (max-width: 850px) {
+   .hand_image{
+   	 margin-left:200px;
+   }
+}
+.percentage{
+    font-size: 100px;
+    top: 50%;
+    left: 50%;
+    transform: translate(11%,228%);
+    color:#e63956;
+    font-weight:bold;
+}
+.discount{
+	font-size:40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(11%,429%);
+    color:#4a1831;
+    font-weight:bold;
+}
+.on_tacos {
+    top: 50%;
+    left: 50%;
+    transform: translate(11%,248%);
+    color: #e63956;
+    font-weight: bold;
+    font-size: 60px;
+}
+@media screen and (max-width: 850px){
+.percentage {
+    font-size: 93px;
+    top: 56%;
+    left: 57%;
+    transform: translate(1%,233%);
+    color: #e63956;
+    font-weight: bold;
+}
+.discount {
+    font-size: 39px;
+    top: 48%;
+    left: 50%;
+    transform: translate(1%,427%);
+    color: #4a1831;
+    font-weight: bold;
+}
+.on_tacos {
+    top: 50%;
+    left: 50%;
+    transform: translate(0%,288%);
+    color: #e63956;
+    font-weight: bold;
+    font-size: 48px;
+}
+}
+
+@media screen and (max-width:440px){
+.percentage {
+    font-size: 93px;
+    top: 56%;
+    left: 57%;
+    transform: translate(1%,233%);
+    color: #e63956;
+    font-weight: bold;
+}
+.discount {
+    font-size: 39px;
+    top: 48%;
+    left: 50%;
+    transform: translate(1%,427%);
+    color: #4a1831;
+    font-weight: bold;
+}
+.on_tacos {
+    top: 50%;
+    left: 50%;
+    transform: translate(0%,288%);
+    color: #e63956;
+    font-weight: bold;
+    font-size: 48px;
+}
+}
+
+.offers{
+	background:#4a1831;
+	padding:40px 0;
+}
+
+.our_offer{
+	color:#ffd7ad;
+}
+.see_our{
+	margin-top:50px;
+}
+.see_btn{
+	background:#ffd7ad;
+	color:#4a1831;
+	margin-top:10px;
+	padding:5px 40px;
+	border-radius:20px
+}
+@media screen and (max-width:990px){
+	.yellow{
+		margin-top:50px;
+	}
+}
+.ruti{
+  padding:70px 0;
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('ruti.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.latest{
+	background:#ffd7ad;
+}
+.get_center{
+	text-align:center;
+	padding:60px;
+}
+.your_email {
+    background: #f5efef;
+    padding: 10px 39px;
+    margin-left: 287px;
+    border-radius: 40px;
+}
+.subscribe_btn {
+    padding: 11px 55px;
+    margin-left: 200px;
+    background: #4a1831;
+    color: #fff;
+    border-radius: 35px;
+}
+@media screen and (max-width:990px){
+	.your_email{
+    margin-left: -34px;
+    padding: 10px 60px;
+	}
+	.subscribe_btn{
+	margin-top: -55px;
+	margin-left: 164px;
+	padding: 10px 20px
+	}
+}
+.footer{
+	padding:100px;
+	background:#4a1831;
+	color:#ffd8ac;
+}
+
+@media screen and (max-width:990px){
+	.social_icon{
+	width: 20%;
+    margin-left: -93px;
+	}
+
+    .about{
+    margin-top: -731px;
+    width: 25%;
+    margin-left: 23px;    
+}
+
+    .services{
+    width: 10%;
+    float: left;
+    margin-top: -730px;
+    margin-left: 29px;
+    }
+
+    .other{
+    float: left;
+    width: 8%;
+    margin-top: -733px;
+    margin-left:100px;
+    
+}
+    
+}
+
+
